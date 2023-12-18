@@ -49,7 +49,7 @@ Você é um analista de dados júnior que trabalha para um consultor de intelig�
 #### Fonte de Dados
 * Fornecedor: Provedor.net.
 * Licença: Pessoal.
-* Repositório: [Download]([https://docs.google.com/spreadsheets/d/1XdN3T52vnHTzVzNG_HWfBlDwfs-Jz8DF_zzOigdHj9c/edit?usp=sharing]).
+* Repositório: [Download](https://docs.google.com/spreadsheets/d/1XdN3T52vnHTzVzNG_HWfBlDwfs-Jz8DF_zzOigdHj9c/edit?usp=sharing).
     *  Obs.: Os conjuntos de dados têm um nome diferente, porque a Provedor.net é uma empresa fictícia.
 * Integridade dos dados: Para os propósitos deste estudo de caso, os conjuntos de dados são adequados e permitem a solução das perguntas de negócios.
 * Organização dos dados: Os dados estão organizados no formato longo, onde cada linha representa um registro. Além disso, cada coluna tem um cabeçalho que representa uma variável.
